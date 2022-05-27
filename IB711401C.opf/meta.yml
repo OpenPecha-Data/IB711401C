@@ -1,0 +1,144 @@
+id: IB711401C
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+source_file: null
+initial_creation_type: input
+imported: '2022-05-27T20:24:45.295908'
+last_modified: '2022-05-27T20:24:45.295921'
+parser: null
+source_metadata:
+  title: 'Mātṛceṭa: Varṇārhavarṇastotra'
+  language: sa
+  base:
+    f38BB:
+      title: Title
+      base_file: f38BB.txt
+      order: 1
+    fF9B4:
+      title: Preface
+      base_file: fF9B4.txt
+      order: 2
+    f5252:
+      title: CI_Verses 1-15
+      base_file: f5252.txt
+      order: 3
+    f4524:
+      title: CI_Verses 16-29
+      base_file: f4524.txt
+      order: 4
+    fCFEC:
+      title: CII_Verses 1-20
+      base_file: fCFEC.txt
+      order: 5
+    f432E:
+      title: CII_Verses 21-40
+      base_file: f432E.txt
+      order: 6
+    fE548:
+      title: CII_Verses 41-60
+      base_file: fE548.txt
+      order: 7
+    fCC1C:
+      title: CII_Verses 61-75
+      base_file: fCC1C.txt
+      order: 8
+    f2476:
+      title: CIII_Verses 1-22
+      base_file: f2476.txt
+      order: 9
+    f6627:
+      title: CIV_Verses 1-26
+      base_file: f6627.txt
+      order: 10
+    f0DC4:
+      title: CV_Verses 1-15
+      base_file: f0DC4.txt
+      order: 11
+    f37BE:
+      title: CV_Verses 16-29
+      base_file: f37BE.txt
+      order: 12
+    f922B:
+      title: CVI_Verses 1-20
+      base_file: f922B.txt
+      order: 13
+    f3B73:
+      title: CVI_Verses 21-40
+      base_file: f3B73.txt
+      order: 14
+    f1383:
+      title: CVII_Verses 1-22
+      base_file: f1383.txt
+      order: 15
+    fBB3B:
+      title: CVIII_Verses 1-20
+      base_file: fBB3B.txt
+      order: 16
+    fDAD1:
+      title: CVIII_Verses 21-34
+      base_file: fDAD1.txt
+      order: 17
+    f2893:
+      title: CIX_Verses 1-20
+      base_file: f2893.txt
+      order: 18
+    f7257:
+      title: CIX_Verses 21-27
+      base_file: f7257.txt
+      order: 19
+    f1798:
+      title: CX_Verses 1-20
+      base_file: f1798.txt
+      order: 20
+    f67DF:
+      title: CX_Verses 21-34
+      base_file: f67DF.txt
+      order: 21
+    f893B:
+      title: CXI_Verses 1-15
+      base_file: f893B.txt
+      order: 22
+    fF094:
+      title: CXI_Verses 16-33
+      base_file: fF094.txt
+      order: 23
+    f60B0:
+      title: CXII_Verses 1-15
+      base_file: f60B0.txt
+      order: 24
+    f9DD0:
+      title: Colophon
+      base_file: f9DD0.txt
+      order: 25
+    fD3B2:
+      title: CXIII_Verses 1-15
+      base_file: fD3B2.txt
+      order: 26
+    f29E8:
+      title: CXIII_Verses 16-32
+      base_file: f29E8.txt
+      order: 27
+    f40C3:
+      title: Colophon
+      base_file: f40C3.txt
+      order: 28
+  chapter_to_tile:
+    CI: Chapter 1
+    CII: Chapter 2
+    CIII: Chapter 3
+    CIV: Chapter 4
+    CV: Chapter 5
+    CVI: Chapter 6
+    CVII: Chapter 7
+    CVIII: Chapter 8
+    CIX: Chapter 9
+    CX: Chapter 10
+    CXI: Chapter 11
+    CXII: Chapter 12
+    CXIII: Chapter 13
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
